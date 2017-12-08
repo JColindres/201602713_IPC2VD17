@@ -1,0 +1,7 @@
+1.Preanálisis: En esta parte se estudian las necesidades del problema y hacer un estudio de viabilidad del mismo.
+2.Análisis: Se definen los requisitos del problema y luego se analizan.
+3.Diseño:Se clasifican los requisitos según su importancia y se organiza la arquitectura del software.
+4.Desarrollo: Se codifica y se depura el código del software y se realiza la documentación interna, externa y la del usuario.
+5.Pruebas: Se realizan las pruebas de unidad e integrales buscando errores.
+6.Implementación: Se instala, se entrena y se evalúa el software como producto final.
+7.Mantenimiento: Se realizan mejoras, se corrigen errores y se añaden funcionalidades.

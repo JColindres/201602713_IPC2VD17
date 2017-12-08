@@ -1,0 +1,4 @@
+La metodología de cascada, también llamado ciclo de vida clásico o tradicional, es el modelo más antiguo 
+y cuya propuesta de trabajo se fundamenta sobre todo en un proceso ordenado y secuencial. El proyecto 
+atraviesa cada etapa, cada una es concecuencia del anterior, es obligatorio y no se aceptan cambios 
+durante el proceso, deben hacerse al finalizar, o sea, repetir el proceso.

@@ -1,0 +1,4 @@
+La metodología iterativo incremental consiste en emplear secuencia lineales escalonadas que 
+proporcionan incrementos del producto. Para su desarrollo no es necesario contar con mucho 
+personal para realizar los incrementos iniciales. El primer incremento representa funcionalidades
+prioritarias y cada incremento representa funcionalidades nuevas del producto.
